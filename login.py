@@ -1,3 +1,3 @@
 print("Login version 3")
 
-print("Nueva funcionalidad")
+print("Nueva funcionalidad agregada")
